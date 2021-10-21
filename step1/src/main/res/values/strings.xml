@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DI Step 1</string>
+    <string name="min">-</string>
+    <string name="plus">+</string>
+</resources>
